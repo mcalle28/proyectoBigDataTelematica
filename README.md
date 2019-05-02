@@ -8,8 +8,9 @@ Preparación de datos: Maria Camila Calle
 
 Buscador: Maria Camila Calle
 
+## Documentación
 
-## 1.Diseño
+### 1.Diseño
 
 ### 1.1 Metodología de desarrollo
 
